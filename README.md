@@ -10,7 +10,7 @@ BlockMan is a JavaScript browser game where your goal is to reach the exit as qu
 - At least one level
 
 * [View Wireframes][views]
-[views]: ./docs/Wireframes/block_man.png
+[views]: ./docs/wireframes/block_man.png
 
 ## Phase 1
 
