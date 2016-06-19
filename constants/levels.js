@@ -1,10 +1,11 @@
 // Level number => level
 
 // 0 = Empty space
-// 1 = Brick
+// 1 = Cave floor
 // 2 = Block
 // 3 = Block Man
 // 4 = Exit
+// 5 = Cave ceiling
 
 module.exports = {
   0: [
