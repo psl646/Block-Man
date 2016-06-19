@@ -1,9 +1,3 @@
-// 0 = Empty space
-// 1 = WALL
-// 2 = Block
-// 3 = Block Man
-// 4 = Exit
-
 module.exports = {
   0: "../BlockMan/images/empty_space.png",
   CAVE_FLOOR: "../BlockMan/images/cave_floor.png",

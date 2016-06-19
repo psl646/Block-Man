@@ -1,0 +1,50 @@
+/*RESET*/
+
+html, head, title, body, canvas, h1, p, ul, li, tab {
+  padding: 0;
+  border: 0;
+  margin: inherit;
+  text-align: inherit;
+
+  font: inherit;
+  text-decoration: inherit;
+  text-align: inherit;
+  color: inherit;
+
+  background: transparent;
+}
+
+body {
+  font-family: "Lucida Grande", Arial, Verdana, sans-serif;
+  font-size: 16px;
+  color: rgb(218, 217, 228);
+  background: rgb(58, 59, 55);
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 30px;
+  width: 170px;
+  padding: 15px;
+}
+
+canvas {
+  display: block;
+  border: 3px solid rgb(218, 217, 228);
+}
+
+p {
+  width: 750px;
+  padding: 15px;
+}
+
+ul {
+  list-style: none;
+  width: 460px;
+  text-align: left;
+}
+
+tab {
+  padding-left: 115px;
+}
