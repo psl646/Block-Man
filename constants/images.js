@@ -12,4 +12,5 @@ module.exports = {
   RIGHT: "../BlockMan/images/right_sprite.png",
   LEFT: "../BlockMan/images/left_sprite.png",
   4: "../BlockMan/images/exit.png",
+  EXIT_BLOCKMAN: "../BlockMan/images/exit_block_man.png"
 };
