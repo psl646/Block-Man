@@ -4,10 +4,10 @@ BlockMan is a JavaScript browser game where your goal is to reach the exit as qu
 
 ## MVP
 
-- A sprite representing BlockMan
-- Blocks that BlockMan can manipulate
-- A timer on the screen to show how much time has passed.
-- At least one level
+- [x] A sprite representing BlockMan
+- [x] Blocks that BlockMan can manipulate
+- [x] A timer on the screen to show how much time has passed.
+- [x] At least one level
 
 * [View Wireframes][views]
 [views]: ./docs/wireframes/block_man.png
