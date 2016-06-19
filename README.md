@@ -14,17 +14,17 @@ BlockMan is a JavaScript browser game where your goal is to reach the exit as qu
 
 ## Phase 1
 
-- Deal with block collision
-- Blocks can be pushed or picked up
-- Logic for lifting/pushing blocks
-- Logic for BlockMan's pathing - can only go up if it is only one level up.
+- [x] Deal with block collision
+- [x] Blocks can be pushed or picked up
+- [x] Logic for lifting/pushing blocks
+- [x] Logic for BlockMan's pathing - can only go up if it is only one level up.
 
 ## Phase 2
 
-- Rendering the game using canvas
+- [x] Rendering the game using canvas
 
 ## Phase 3
 
-- Timer
-- Welcome screen
-- Maybe a key to zoom out to get a birds eye view of the game to plan ahead
+- [x] Timer
+- [x] Welcome screen
+- [ ] Maybe a key to zoom out to get a birds eye view of the game to plan ahead
