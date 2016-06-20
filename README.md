@@ -15,10 +15,9 @@ Block Dude was written by Brandon Sterner for the TI-83+ and released in 2001.  
 → : Move right  
 ↑ : Climb onto a block (when standing next to one).  
 ↓ : Pick up block (when standing next to one) or drop a block (if holding one).  
-R: Restart Level if you get stuck. <br/>
-Spacebar: Pause the level/timer. <br/>
-Escape: Quit game, you will lose all progress. <br/>
-
+R: Restart Level if you get stuck.  
+Spacebar: Pause the level/timer.  
+Escape: Quit game, you will lose all progress.  
 
 ### Level Creation
 
