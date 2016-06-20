@@ -11,13 +11,13 @@ BlockMan is a browser game inspired by Block Dude.  It is written using JavaScri
 Block Dude was written by Brandon Sterner for the TI-83+ and released in 2001.  BlockMan incorporates a slight twist to the original game - in this iteration, Block Man is trapped in a cave and you must help Block Man reach the exit.  In this platform-style game, Block Man's legs are not strong enough to allow him to jump.  You must utilize the blocks provided in the level to create a path for Block Man to climb on to exit!
 
 ### Instructions
-← : Move left
-→ : Move right
-↑ : Climb onto a block (when standing next to one).
-↓ : Pick up block (when standing next to one) or drop a block (if holding one).
-R: Restart Level if you get stuck.
-Spacebar: Pause the level/timer.
-Escape: Quit game, you will lose all progress.
+..* ← : Move left
+..* → : Move right
+..* ↑ : Climb onto a block (when standing next to one).
+..* ↓ : Pick up block (when standing next to one) or drop a block (if holding one).
+..* R: Restart Level if you get stuck.
+..* Spacebar: Pause the level/timer.
+..* Escape: Quit game, you will lose all progress.
 
 
 ### Level Creation
