@@ -1,0 +1,65 @@
+.arrow-keys-container {
+  margin-bottom: 10px;
+}
+
+.up-key-image {
+  width: 40px;
+  margin-left: 210px;
+}
+
+.up-key-text {
+  float: right;
+  width: 210px;
+  margin-top: 20px;
+}
+
+.left-key-container {
+  width: 160px;
+  margin-left: 50px;
+  float: left;
+}
+
+.left-key-text {
+  float: left;
+  width: 80px;
+  margin-top: 10px;
+}
+
+.down-key-container {
+  width: 40px;
+  margin-top: 2px;
+  float: left;
+}
+
+.right-key-container {
+  width: 205px;
+  float: right;
+}
+
+.right-key-text {
+  float: right;
+  width: 90px;
+  margin-top: 10px;
+  margin-right: 35px;
+}
+
+.down-key-text {
+  float: left;
+  position: relative;
+  width: 170px;
+  top: 3px;
+}
+
+.restart-key-text {
+  width: 410px;
+  top: 10px;
+  position: relative;
+  float: right;
+}
+
+.spacebar-key-text {
+  width: 335px;
+  top: 10px;
+  position: relative;
+  float: right;
+}

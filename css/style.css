@@ -1,4 +1,5 @@
 /*RESET*/
+@import 'controls.css';
 
 html, head, title, body, canvas, h1, p, ul, li, tab {
   padding: 0;
@@ -43,19 +44,10 @@ ul {
   list-style: none;
   width: 460px;
   text-align: left;
-  background: red;
 }
 
-.arrow-keys-container {
-  background: blue;
-}
-
-.up-key {
-  background: green;
-  width: 250px;
-  float: right;
-}
-
-tab {
-  padding-left: 115px;
+.group:after {
+  content: "";
+  display: block;
+  clear: both;
 }
