@@ -43,6 +43,17 @@ ul {
   list-style: none;
   width: 460px;
   text-align: left;
+  background: red;
+}
+
+.arrow-keys-container {
+  background: blue;
+}
+
+.up-key {
+  background: green;
+  width: 250px;
+  float: right;
 }
 
 tab {
