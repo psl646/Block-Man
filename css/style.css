@@ -11,6 +11,7 @@ html, head, title, body, canvas, h1, p, ul, li, tab {
   text-decoration: inherit;
   text-align: inherit;
   color: inherit;
+  cursor: inherit;
 
   background: transparent;
 }
@@ -22,6 +23,7 @@ body {
   background: rgb(58, 59, 55);
   margin: auto;
   text-align: center;
+  cursor: default;
 }
 
 h1 {
@@ -50,4 +52,14 @@ ul {
   content: "";
   display: block;
   clear: both;
+}
+
+.link {
+  color: white;
+  margin: 0 10px;
+}
+
+.link:hover {
+  cursor: pointer;
+  color: grey;
 }
