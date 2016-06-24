@@ -24,6 +24,8 @@ body {
   margin: auto;
   text-align: center;
   cursor: default;
+  background-image: url("../images/blocks_maze.jpg");
+  text-shadow: 5px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
 h1 {
