@@ -2,7 +2,7 @@
 
 Click [here][gh-pages] to play!
 
-[gh-pages]: http://peterlin.co/Block-Man/
+[gh-pages]: https://psl646.github.io/Block-Man/
 
 Block Man is a browser game inspired by Block Dude.  It is written using JavaScript and HTML5.  The graphics are rendered using HTML canvas and CSS3.
 
